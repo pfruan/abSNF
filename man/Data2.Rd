@@ -12,7 +12,7 @@ data(data2)
 }
 \format{
 A data frame with 150 observations on the following 1000 variables.\cr
-Refer to senario 1(2) in simulation part of Using Association Signal Annotations to boost Similarity Network Fusion(2018), Peifeng Ruan, Ya Wang, Ronglai Shen, Shuang Wang.
+Refer to continuous features in senario 1(2) in simulation part of Using Association Signal Annotations to boost Similarity Network Fusion(2018), Peifeng Ruan, Ya Wang, Ronglai Shen, Shuang Wang.
 
   }
 
