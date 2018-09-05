@@ -1,0 +1,13 @@
+Package: abSNF
+Type: Package
+Title: Using Association Signal Annotations to boost Similarity Network Fusion
+Version: 1.0.0
+Author: Peifeng Ruan
+Maintainer: Peifeng Ruan <pruan@gwu.edu>
+Description: A boosted similarity network fusion (ab-SNF) method, adding feature-level association signal annotations as weights aiming to up-weight signal features and down-weight noise features when constructing subject similarity networks to improve the performance in disease subtyping. 
+License: GPL
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+NeedsCompilation: no
+Packaged: 2018-06-03 21:55:20 UTC; admin
