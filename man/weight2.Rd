@@ -12,7 +12,7 @@ data(weight2)
 }
 \format{
 A sequence indicating the weights for 1,000 features in data2.\cr
-Refer to senario 1(2) in simulation part of Using Association Signal Annotations to boost Similarity Network Fusion(2018), Peifeng Ruan, Ya Wang, Ronglai Shen, Shuang Wang.
+Refer to continuous features in senario 1(2) in simulation part of Using Association Signal Annotations to boost Similarity Network Fusion(2018), Peifeng Ruan, Ya Wang, Ronglai Shen, Shuang Wang.
 
   }
 
