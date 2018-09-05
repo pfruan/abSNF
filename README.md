@@ -1,1 +1,1 @@
-# abSNF
+R packge for a boosted similarity network fusion (ab-SNF) method, adding feature-level association signal annotations as weights aiming to up-weight signal features and down-weight noise features when constructing subject similarity networks to improve the performance in disease subtyping. 
