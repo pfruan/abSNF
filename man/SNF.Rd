@@ -46,8 +46,8 @@ data1 = standardNormalization(data1)
 data2 = standardNormalization(data2)
 
 # Calculate boosted distance matrices(here we calculate Euclidean Distance, 
-Dist1 = dist2_w(as.matrix(data1),as.matrix(data1),weight1)
-Dist2 = dist2_w(as.matrix(data2),as.matrix(data2),weight2)
+Dist1 = dist2_w(as.matrix(data1),as.matrix(data1),weight1)^(1/2)
+Dist2 = dist2_w(as.matrix(data2),as.matrix(data2),weight2)^(1/2)
 
 # Next, construct similarity graphs
 W1 = affinityMatrix(Dist1)
