@@ -2,6 +2,6 @@ An R packge for a boosted similarity network fusion (ab-SNF) method, adding feat
 
 The package can be installed through:  
 library("devtools")  
-install_github("pfruan/abSNF") . 
-or . 
+install_github("pfruan/abSNF")  
+or  
 directly download the abSNF_1.0.0.tar.gz file and install it locally.
