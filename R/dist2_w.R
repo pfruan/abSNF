@@ -3,6 +3,9 @@ dist2_w=function (X, C, weight)
   for (i in 1:dim(X)[1]){
     X[i,]=sqrt(weight)*X[i,]
   }
+    for (i in 1:dim(C)[1]) {
+    C[i, ] = sqrt(weight) * C[i, ]
+  }
   ndata = nrow(X)
   ncentres = nrow(C)
   sumsqX = rowSums(X^2)
